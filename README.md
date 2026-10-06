@@ -73,3 +73,21 @@ Jika ditemukan bernilai True, file JSON akan diperbarui dengan data yang telah d
 Logika fungsi ini mirip dengan ubah_barang, namun alih-alih mengubah nilai, ia menghapus seluruh dictionary barang dari list. Jika ID barang ditemukan, 
 
 ia menggunakan fungsi data.remove(barang) untuk menghapusnya. File JSON kemudian diperbarui.
+
+---
+
+<img width="730" height="596" alt="Screenshot 2026-10-06 200420" src="https://github.com/user-attachments/assets/cc3dbb9a-c2aa-414e-89a8-b30cbecdb618" />
+
+Ini adalah bagian utama program yang mengatur interaksi dengan pengguna.
+
+while True menciptakan loop tak terbatas yang akan terus menampilkan menu pilihan hingga pengguna memilih untuk keluar.  
+
+Berdasarkan input angka yang dipilih pengguna, program akan memanggil fungsi yang sesuai (tampilkan_barang, tambah_barang, dll.) 
+
+menggunakan struktur percabangan if-elif-else.Jika pengguna memilih opsi "5", perintah break akan menghentikan loop while dan program pun selesai. 
+
+---
+
+<img width="548" height="72" alt="Screenshot 2026-10-06 200425" src="https://github.com/user-attachments/assets/d64b467b-3197-4252-9b61-e6bb83ab1396" />
+
+perintah main() digunakan untuk memicu jalannya seluruh program.
