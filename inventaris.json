@@ -1,0 +1,20 @@
+[
+    {
+        "id": "B001",
+        "nama": "Beras 5kg",
+        "stok": 15,
+        "harga": 68000
+    },
+    {
+        "id": "B002",
+        "nama": "Minyak Goreng 2L",
+        "stok": 20,
+        "harga": 35000
+    },
+    {
+        "id": "B003",
+        "nama": "Gula Pasir 1kg",
+        "stok": 10,
+        "harga": 17000
+    }
+]
