@@ -91,3 +91,77 @@ menggunakan struktur percabangan if-elif-else.Jika pengguna memilih opsi "5", pe
 <img width="548" height="72" alt="Screenshot 2026-10-06 200425" src="https://github.com/user-attachments/assets/d64b467b-3197-4252-9b61-e6bb83ab1396" />
 
 perintah main() digunakan untuk memicu jalannya seluruh program.
+
+---
+
+## Hasil Output
+
+### MENU Utama
+
+<img width="279" height="161" alt="Screenshot 2026-10-06 201834" src="https://github.com/user-attachments/assets/f0dc0291-cb69-40c2-8fe1-24728ed59a0a" />
+
+---
+
+### Tampilkan Data
+
+<img width="635" height="282" alt="Screenshot 2026-10-06 201850" src="https://github.com/user-attachments/assets/62489b16-f555-4c50-87f6-808fb90d56cd" />
+
+---
+
+### Ubah Data
+
+<img width="656" height="519" alt="Screenshot 2026-10-06 201923" src="https://github.com/user-attachments/assets/bbe9831f-9efd-4d33-9651-300110abc366" />
+
+Jika Data Sudah Ada
+
+<img width="367" height="435" alt="Screenshot 2026-10-06 202112" src="https://github.com/user-attachments/assets/3dc7184c-f8d8-4701-9416-6f71657fc7d0" />
+
+Jika Data Baru Ingin Ditambahkan
+
+<img width="589" height="309" alt="Screenshot 2026-10-06 202121" src="https://github.com/user-attachments/assets/2b397f23-2f46-4eec-8fcf-fe103d27a690" />
+
+Data Baru Muncul Di Menu Tampilan
+
+<img width="801" height="647" alt="Screenshot 2026-10-06 202208" src="https://github.com/user-attachments/assets/5389b355-5b5f-410b-aaf5-f7e3934e7c7d" />
+
+Data Baru Muncul Di File json
+
+---
+
+### Ubah Data
+
+<img width="628" height="384" alt="Screenshot 2026-10-06 202330" src="https://github.com/user-attachments/assets/58f18449-cd54-4690-a01f-0cf15ec54d5f" />
+
+Ubah data yang Akan mau diubah
+
+<img width="1095" height="621" alt="Screenshot 2026-10-06 202343" src="https://github.com/user-attachments/assets/b74868c6-4aa3-460f-bbe1-4ba5d9bff015" />
+
+Data Dalam File json Udah Berubah
+
+---
+
+<img width="480" height="209" alt="Screenshot 2026-10-06 202423" src="https://github.com/user-attachments/assets/71f4064b-c9d4-4f4a-a88b-abc6a807f482" />
+
+Hapus data Yang Akan dihapus
+
+<img width="1245" height="531" alt="Screenshot 2026-10-06 202436" src="https://github.com/user-attachments/assets/d70e65c8-4ce3-4f84-8a7d-57b8c304f8a3" />
+
+Data pada file json Udah Diupdate dan data yang dihapus telah terhapus
+
+---
+
+<img width="506" height="170" alt="Screenshot 2026-10-06 202454" src="https://github.com/user-attachments/assets/19d3e0a5-ca1e-4891-a068-5dd51a65be13" />
+
+Keluar Dari Program
+
+---
+
+<img width="596" height="256" alt="Screenshot 2026-10-06 202659" src="https://github.com/user-attachments/assets/2e92cd95-62bf-4db4-bea5-77d71ce511a3" />
+
+tampilan data tetap sama meskipun program dirunning ulang
+
+<img width="808" height="543" alt="Screenshot 2026-10-06 202707" src="https://github.com/user-attachments/assets/7ea955ef-0eb6-4055-ba78-60b17a6e4546" />
+
+meskipun dirunning ulang Data pada file json tidak berubah sama sekali
+
+
